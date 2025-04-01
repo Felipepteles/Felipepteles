@@ -5,7 +5,7 @@ Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas no Senac Pe
 
 Frontend: HTML5, CSS, Tailwind, React
 
-Backend: JavaScript, TypeScript
+Backend: JavaScript, TypeScript, Python
 
 Banco de Dados: MySQL, PostgreSQL
 
