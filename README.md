@@ -8,5 +8,3 @@ Frontend: HTML5, CSS, Tailwind, React
 Backend: JavaScript, TypeScript, Python
 
 Banco de Dados: MySQL, PostgreSQL
-
-Estou em constante evolução e aberto a colaborar em projetos e trocar ideias. Se você quer conversar sobre programação, é só chamar! 😄
